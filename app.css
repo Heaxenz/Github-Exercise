@@ -1,11 +1,15 @@
 
 div{
   font-size:100px;
-}
-body{
   display:flex;
   justify-content:center;
   align-items:center;
+}
+body{
   height: 100vh;
   background-color:rgb(95, 95, 95);
+}
+.info{
+  display:block;
+  color:white;
 }
